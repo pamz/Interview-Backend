@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moduit.Backend.Api", "Moduit.Backend.Api\Moduit.Backend.Api.csproj", "{8672083B-7288-418D-90FC-72B714548245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moduit.Backend.Api.CoreBusiness", "Moduit.Backend.Api.CoreBusiness\Moduit.Backend.Api.CoreBusiness.csproj", "{FE92C0E7-2B11-4F54-9EAB-16ADF6CA4859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8672083B-7288-418D-90FC-72B714548245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8672083B-7288-418D-90FC-72B714548245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8672083B-7288-418D-90FC-72B714548245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8672083B-7288-418D-90FC-72B714548245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE92C0E7-2B11-4F54-9EAB-16ADF6CA4859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE92C0E7-2B11-4F54-9EAB-16ADF6CA4859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE92C0E7-2B11-4F54-9EAB-16ADF6CA4859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE92C0E7-2B11-4F54-9EAB-16ADF6CA4859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3547AE19-FBC4-4896-B815-B82FB7AE7319}
+	EndGlobalSection
+EndGlobal
