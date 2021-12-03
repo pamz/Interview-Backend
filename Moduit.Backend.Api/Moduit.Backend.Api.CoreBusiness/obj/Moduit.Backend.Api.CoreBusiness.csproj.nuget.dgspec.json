@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api.CoreBusiness\\Moduit.Backend.Api.CoreBusiness.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api.CoreBusiness\\Moduit.Backend.Api.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api.CoreBusiness\\Moduit.Backend.Api.CoreBusiness.csproj",
+        "projectName": "Moduit.Backend.Api.CoreBusiness",
+        "projectPath": "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api.CoreBusiness\\Moduit.Backend.Api.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\Budi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\ComponentOne\\WPF Edition\\bin\\v5\\",
+          "C:\\Program Files (x86)\\ComponentOne\\WinForms Edition\\bin\\v5\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Budi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ComponentOne.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\ComponentOne\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.devexpress.com/S6gZa4Ium8nRYJ5AvWjWkIJ7zyIY1OVDC4rel93ZNpQVA6grey/api": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NSwag.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

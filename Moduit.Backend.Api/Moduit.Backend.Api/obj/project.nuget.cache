@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzjswMi/2MGDJOvEkh6XkDLU1WXAwaJotv6mB2wt+fyWZG0BX5JTMekAYrL/qyjMxYH0vdW+Cl0VTfPvkf8usQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api\\Moduit.Backend.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Budi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

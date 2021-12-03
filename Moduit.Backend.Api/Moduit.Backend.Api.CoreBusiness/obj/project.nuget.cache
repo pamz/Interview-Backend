@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tFYJ3X7+ectKVpX2WxGKfHo1p73VUUQcaZdle65wAmi2mDIvFQ7M7/C0OEgCbu1wrmz5kL5KdCH1pH9341bQsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Budi\\source\\repos\\pamz\\Interview-Backend\\Moduit.Backend.Api\\Moduit.Backend.Api.CoreBusiness\\Moduit.Backend.Api.CoreBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Budi\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\Budi\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
